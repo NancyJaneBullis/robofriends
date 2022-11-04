@@ -1,0 +1,23 @@
+[33mcommit 5c806244c5eef452c38ca65df0968f0493267ecb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nancy Jane Bullis <nancybullis3@gmail.com>
+Date:   Thu Nov 3 17:10:06 2022 -0400
+
+    Change H1 color
+
+[33mcommit c1d986847da01003b988eec0fcfeaed5f08b96b4[m
+Author: Nancy Jane Bullis <nancybullis3@gmail.com>
+Date:   Thu Nov 3 15:04:02 2022 -0400
+
+    change H1 color
+
+[33mcommit 0c399b9745324b1006d7b3136eb47c6d43ea922f[m
+Author: JayBeeWD <bullisnancyjane@gmail.com>
+Date:   Wed Nov 2 17:38:04 2022 -0400
+
+    organize folders
+
+[33mcommit 2a3e0128e1bfc85737820abe962c911a85a75739[m
+Author: JayBeeWD <bullisnancyjane@gmail.com>
+Date:   Thu Sep 22 17:36:51 2022 -0400
+
+    Initialize project using Create React App
